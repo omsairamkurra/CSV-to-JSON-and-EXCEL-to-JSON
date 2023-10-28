@@ -1,0 +1,30 @@
+{
+  "name": "csv-to-json-and-excel-to-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omsairamkurra/CSV-to-JSON-and-EXCEL-to-JSON.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omsairamkurra/CSV-to-JSON-and-EXCEL-to-JSON/issues"
+  },
+  "homepage": "https://github.com/omsairamkurra/CSV-to-JSON-and-EXCEL-to-JSON#readme",
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0",
+    "csv-parser": "^3.0.0",
+    "csvtojson": "^2.0.10",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "json2csv": "^6.0.0-alpha.2",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.0.1"
+  }
+}
